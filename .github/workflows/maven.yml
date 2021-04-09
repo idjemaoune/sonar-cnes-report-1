@@ -26,6 +26,7 @@ jobs:
     - name: Create Release
       uses: ncipollo/release-action@v1
       with:
+        allowUpdates: true
         tag: "3.3.2"
         artifacts: "target/sonar-cnes-report.jar"
         token: ${{ secrets.GITHUB_TOKEN }}
