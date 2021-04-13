@@ -132,6 +132,7 @@ For legacy versions, check the wiki page here : [Note on legacy versions](https:
   <td>X</td>
   <td>X</td>
   <td>X</td>
+  <td>-</td>
  </tr>
  <tr>
   <td><b>8.0</b></td>
@@ -142,6 +143,7 @@ For legacy versions, check the wiki page here : [Note on legacy versions](https:
   <td>-</td>
   <td>X</td>
   <td>X</td>
+  <td>-</td>
  </tr>
  <tr>
   <td><b>8.1</b></td>
@@ -152,6 +154,7 @@ For legacy versions, check the wiki page here : [Note on legacy versions](https:
   <td>-</td>
   <td>X</td>
   <td>X</td>
+  <td>-</td>
  </tr>
  <tr>
   <td><b>8.2</b></td>
@@ -162,9 +165,11 @@ For legacy versions, check the wiki page here : [Note on legacy versions](https:
   <td>-</td>
   <td>X</td>
   <td>X</td>
+  <td>-</td>
  </tr>
  <tr>
   <td><b>8.7.1</b></td>
+  <td>-</td>
   <td>-</td>
   <td>-</td>
   <td>-</td>
